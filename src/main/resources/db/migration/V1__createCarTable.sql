@@ -2,5 +2,5 @@ CREATE TABLE IF NOT EXISTS cars(
     id_car SERIAL PRIMARY KEY,
     marque varchar(15),
     model varchar(15),
-    age int(2000)
+    /*age int(2000)*/
     );
